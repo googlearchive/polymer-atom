@@ -1,6 +1,6 @@
 {
   "name": "polymer-atom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Atom plugin for Polymer element development.",
   "main": "lib/polymer-atom.js",
   "scripts": {
