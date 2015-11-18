@@ -1,7 +1,7 @@
 {
   "name": "polymer-atom",
   "version": "0.0.5",
-  "description": "Atom plugin for Polymer element development.",
+  "description": "Atom plugin for linting polymer elements.",
   "main": "lib/polymer-atom.js",
   "scripts": {
     "test": "jshint lib"
